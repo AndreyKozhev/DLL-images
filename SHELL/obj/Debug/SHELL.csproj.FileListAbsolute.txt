@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\пр\dll\SHELL\SHELL\bin\Debug\SHELL.dll
+C:\Users\user\Desktop\пр\dll\SHELL\SHELL\bin\Debug\SHELL.pdb
+C:\Users\user\Desktop\пр\dll\SHELL\SHELL\obj\Debug\SHELL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\пр\dll\SHELL\SHELL\obj\Debug\SHELL.dll
+C:\Users\user\Desktop\пр\dll\SHELL\SHELL\obj\Debug\SHELL.pdb
+C:\Users\user\Desktop\пр\dll\SHELL\SHELL\obj\Debug\SHELL.csprojAssemblyReference.cache
