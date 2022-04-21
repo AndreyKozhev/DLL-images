@@ -1,3 +1,5 @@
+![Platform](https://img.shields.io/badge/Platform-Windows-blue "")
+![IDE](https://img.shields.io/badge/IDE-Visual%20Stidio-brightgreen "")
 # Изображения в dll
 Данный проект демонстрирует, как сделать DLL файл со значаками. В Windows вы можете назначить иконку папке из данного файла.
 ## Редактирование в Visual Studio
